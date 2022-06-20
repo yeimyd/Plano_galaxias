@@ -15,7 +15,7 @@ IDH: Id de halo que contiene a la galaxia.
 
 ID:Id de la galaxia en la base de datos.
 
-Mass:Masa de la galaxia en $10^{10}𝑀_\odot/ℎ$.
+Mass:Masa de la galaxia en $10^{10}𝑀_\odot/ℎ$ (sum of masses of all particles/cells (split by type) within twice the stellar half mass radius.).
 
 x,y,z: Posición x,y,z de cada galaxia en $𝑐𝑘𝑝𝑐/ℎ$.
 
